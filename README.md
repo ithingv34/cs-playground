@@ -7,7 +7,7 @@
 ### [2. Data Structure and Algorithm in Java](https://github.com/ithingv34/PlayGround/tree/algorithm) 
 - 기간: 2022.12.01 ~ 
 
-### [3. Computer Science](./computer_science/README.md)
+### [3. Computer Science](https://github.com/ithingv34/PlayGround/tree/computer_science)
 - 기간: 2023.01.01 ~
 
 ### [4. Object Oriented Programming]()
