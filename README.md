@@ -4,7 +4,7 @@
 - 기간: 2022.12.01 ~
 
 
-### [2. Data Structure and Algorithm in Java](./algorithm/README.md) 
+### [2. Data Structure and Algorithm in Java](https://github.com/ithingv34/PlayGround/tree/algorithm) 
 - 기간: 2022.12.01 ~ 
 
 ### [3. Computer Science](./computer_science/README.md)
