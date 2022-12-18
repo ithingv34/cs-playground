@@ -6,7 +6,7 @@
 **교집합**
 - 두 집합이 공통으로 포함하는 원소로 이루어진 집합
 
-![img.png](./images/1-1.png)
+![img.png](../../images/Math/1-1.png)
 
 - `retainAll()`
   - 두 집합에서 동일하게 포함하고 있는 원소만 있는 집합을 만든다.
@@ -25,7 +25,7 @@ System.out.println("교집합: " + a); // 교집합: [2, 4]
 **합집합**
 - 어느 하나에라도 속하는 원소들을 모두 모은 집합
 
-![img.png](./images/1-2.png)
+![img.png](../../images/Math/1-2.png)
 
 - `addAll()`
   - 두 집합의 원소들을 합한 집합을 만든다.
@@ -45,7 +45,7 @@ System.out.println("합집합: " + c); // 합집합: [1, 2, 3, 4, 5, 6, 8, 10]
 **차집합**
 - A(or B)에만 속하는 원소들의 집합
 
-![img.png](./images/1-3.png)
+![img.png](../../images/Math/1-3.png)
 
 - `removeAll()`
   - 인수로 주는 집합의 포함된 동일한 원소들을 제거한다.
@@ -63,13 +63,13 @@ System.out.println("차집합: " + e); // 차집합: [1, 3, 5]
 **여집합**
 - 전체 집합 중 A의 원소가 아닌 것들의 집합
 
-![img.png](./images/1-4.png)
+![img.png](../../images/Math/1-4.png)
 
 ---
 
 **부분집합(집합 포함 여부)**
 
-![img.png](./images/1-5.png)
+![img.png](../../images/Math/1-5.png)
 
 - `containsAll()`
   - 인수로 주는 집합이 부분 집합이면 true이다
