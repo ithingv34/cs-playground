@@ -39,10 +39,6 @@ module.exports = {
         link: '/datastructure/',
       },
       {
-        text: '컴퓨터구조',
-        link: '/computer_structure/'
-      },
-      {
         text: '운영체제',
         link: '/os/',
       },
@@ -55,8 +51,12 @@ module.exports = {
         link: '/database/',
       },
       {
-        text: '분산처리',
-        link: '/distributed_system/',
+        text: '소프트웨어공학',
+        link: '/software_engineering/',
+      },
+      {
+        text: '시스템디자인',
+        link: '/system_design/',
       },
       {
         text: 'Github',
