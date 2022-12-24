@@ -1,15 +1,4 @@
----
-sidebar: auto
----
+# 운영체제
 
-# Config
 
-## foo
-
-- Type: `string`
-- Default: `/`
-
-## bar
-
-- Type: `string`
-- Default: `/`
+<img src="./../../images/os/1-1.png" style="margin: 30px 200px;" >
