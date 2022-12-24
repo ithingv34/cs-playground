@@ -83,7 +83,7 @@ System.out.println(g.containsAll(h)); // true
 
 ---
 **참고자료**
-- [ArrayList를 활용하여 집합의 기능(교집합, 합집합, 차진합)을 구현한 코드](https://github.com/ithingv34/PlayGround/blob/algorithm/algorithm/dataStructure/code/Math/src/MySet.java) 
+- [ArrayList를 활용하여 집합의 기능(교집합, 합집합, 차진합)을 구현한 코드](https://github.com/ithingv34/cs-playground/blob/main/code/Math/src/MySet.java) 
 - [Java HashSet.retainAll](https://codechacha.com/ko/java-collections-arraylist-retainall/)
 - [Java HashSet.addAll](https://codechacha.com/ko/java-collections-hashset-addall/)
 - [Java HashSet.removeAll](https://codechacha.com/ko/java-collections-arraylist-removeall/)

@@ -72,5 +72,5 @@ System.out.println("결과: " + (nA * nB));
 
 ---
 **참고자료**
-- [약수, 최소공배수, 최대공약수 구하기 (반복문)](https://github.com/ithingv34/PlayGround/blob/algorithm/algorithm/dataStructure/code/Math/src/NumberOfCases.java)
+- [약수, 최소공배수, 최대공약수 구하기 (반복문)](https://github.com/ithingv34/cs-playground/blob/main/code/Math/src/NumberOfCases.java)
 - [재귀를 활용하여 최대공약수 구하기]()

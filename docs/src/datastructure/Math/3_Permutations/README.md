@@ -67,6 +67,6 @@ for (int i = 1; i < n; i++) {
 **참고자료**
 
 - [1, 2, 3, 4를 이용하여 세자리 자연수를 만드는 코드 (순서 O, 중복 X)
- ](https://github.com/ithingv34/PlayGround/blob/algorithm/algorithm/dataStructure/code/Math/src/Permutation.java)
+ ](https://github.com/ithingv34/cs-playground/blob/main/code/Math/src/Permutation.java)
  - [Swap을 이용한 순열 / Visited 배열을 이용한 순열](https://bcp0109.tistory.com/14)
  - [[알고리즘] 백트래킹, 순열, 조합, 부분집합, 중복순열]()
