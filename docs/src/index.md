@@ -1,15 +1,14 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: CS All in One
-actionText: Quick Start →
-actionLink: /guide/
+heroImage: https://www.buitms.edu.pk/content/img/fict/cs.png
+tagline: CS All in One Documents
+actionText: Start
+actionLink: /datastructure/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by ithingv34 with ❤️
+- title: 자료구조
+- title: 운영체제
+- title: 네트워크
+- title: 데이터베이스
+- title: 분산처리
+footer: Made by ithingv34
 ---
