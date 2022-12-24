@@ -39,8 +39,24 @@ module.exports = {
         link: '/datastructure/',
       },
       {
+        text: '컴퓨터구조',
+        link: '/computer_structure/'
+      },
+      {
         text: '운영체제',
-        link: '/os/'
+        link: '/os/',
+      },
+      {
+        text: '네트워크',
+        link: '/network/',
+      },
+      {
+        text: '데이터베이스',
+        link: '/database/',
+      },
+      {
+        text: '분산처리',
+        link: '/distributed_system/',
       },
       {
         text: 'Github',
