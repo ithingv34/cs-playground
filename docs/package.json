@@ -1,0 +1,19 @@
+{
+  "name": "ComputerScience",
+  "version": "0.0.1",
+  "description": "CS All in One",
+  "main": "index.js",
+  "authors": {
+    "name": "ithingv34",
+    "email": "ithingv34@gmail.com"
+  },
+  "repository": "/ComputerScience",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
