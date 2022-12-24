@@ -58,7 +58,7 @@ module.exports = {
         }
       ],
     },
-    base: "/cs-playground/"
+    base: '/cs-playground/'
   },
 
   /**
