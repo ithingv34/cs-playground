@@ -35,22 +35,22 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: '자료구조',
+        link: '/datastructure/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: '운영체제',
+        link: '/os/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Github',
+        link: 'https://github.com/ithingv34/cs-playground'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/datastructure/': [
         {
-          title: 'Guide',
+          title: '자료구조',
           collapsable: false,
           children: [
             '',
