@@ -6,7 +6,7 @@ public class Permutation {
 
     void swapPermutation(int[] arr, int depth, int n, int r) {
         if (depth == r) {
-            // 3. r 자리수가 만들어졌을 떄
+            // 3. r 자리수가 만들어졌을 떄 
             for (int i = 0; i < r; i++) {
                 System.out.print(arr[i] + " ");
             }
